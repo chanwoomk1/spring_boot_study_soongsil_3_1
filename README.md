@@ -19,3 +19,5 @@
 - `Docs`: 문서 수정 (README, Wiki 등)
 - `Refactor`: 코드 리팩토링
 - `Study`: 학습 내용 기록 및 배포용 코드 작업
+
+
